@@ -1,16 +1,81 @@
-# React + Vite
+# ⚛️ Estudos React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Bem-vindo(a) ao meu repositório de estudos em React!
 
-Currently, two official plugins are available:
+Este espaço foi criado para documentar minha jornada de aprendizado em **React**, desde os conceitos fundamentais até o desenvolvimento de aplicações mais avançadas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Sou estudante de Engenharia de Software e estou construindo meus conhecimentos em desenvolvimento web, com foco em boas práticas, lógica de programação e criação de interfaces modernas.
 
-## React Compiler
+## 🚀 Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- JavaScript
+- React
+- Vite
+- HTML e CSS
+- Git e GitHub
 
-## Expanding the Oxlint configuration
+## 📚 Meu progresso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+| Conteúdo | Status |
+|---|---|
+| Configuração do ambiente React | ✅ Concluído |
+| Introdução ao JSX | ✅ Concluído |
+| Criação de componentes | ✅ Concluído |
+| Reutilização de componentes | 🔄 Em estudo |
+| Props | ⏳ Pendente |
+| Eventos | ⏳ Pendente |
+| useState | ⏳ Pendente |
+| useEffect | ⏳ Pendente |
+| Consumo de APIs | ⏳ Pendente |
+| React Router | ⏳ Pendente |
+| Hooks avançados | ⏳ Pendente |
+| Projeto final | ⏳ Pendente |
+
+## 💻 Exercícios desenvolvidos
+
+### 01 — Primeiro componente React
+
+- Criação de um projeto utilizando Vite.
+- Estruturação do componente `App`.
+- Utilização de JSX.
+- Criação do componente `Saudacao`.
+- Renderização de componentes na interface.
+
+## 🎯 Objetivos
+
+- Compreender os fundamentos do React.
+- Desenvolver componentes reutilizáveis.
+- Aprender gerenciamento de estados.
+- Consumir APIs externas.
+- Desenvolver aplicações completas.
+- Construir um portfólio para oportunidades na área de tecnologia.
+
+## ▶️ Como executar o projeto
+
+**1. Instalar as dependências**
+
+```bash
+npm install
+```
+
+**2. Iniciar o servidor de desenvolvimento**
+
+```bash
+npm run dev
+```
+
+**3. Abrir no navegador**
+
+Acesse o endereço local informado pelo Vite no terminal.
+
+## 📈 Evolução contínua
+
+Este repositório será atualizado conforme eu avançar nos estudos, adicionando novos conceitos, exercícios e projetos práticos.
+
+Cada commit representa mais um passo na minha jornada como desenvolvedora.
+
+---
+
+**Desenvolvido por Bárbara Soares**
+
+[Meu GitHub](https://github.com/barbarasoaress)
