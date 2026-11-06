@@ -1,5 +1,5 @@
-function Saudacao() {
-  return <h2>Seja bem-vindo ao meu mundo Dev!</h2>
+function Saudacao({nome}) {
+  return <h2>Olá, {nome}!</h2>
 }
 
 function App() {
@@ -7,7 +7,8 @@ function App() {
     <div>
       <h1>Meu primeiro projeto React</h1>
       <p>Estou aprendendo React!</p>
-      <Saudacao />
+      <Saudacao nome="Bárbara" />
+      <Saudacao nome="Ana" />
     </div>
   );
 }
