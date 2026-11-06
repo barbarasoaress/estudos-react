@@ -1,5 +1,7 @@
-function Saudacao({nome}) {
-  return <h2>Olá, {nome}! Seja bem-vindo ao meu mundo Dev!</h2>;
+function Saudacao({nome, idade}) {
+  return <h2>Olá, meu nome é {nome}! Tenho {idade} anos!
+          Seja bem-vindo ao meu mundo Dev!
+          </h2>;
 }
 
 function App() {
@@ -8,9 +10,7 @@ function App() {
     <div>
       <h1>Meu primeiro projeto React</h1>
       <p>Estou aprendendo React!</p>
-      <Saudacao nome="Bárbara" />
-      <Saudacao nome="Ana" />
-      <Saudacao nome={pessoa} />
+      <Saudacao nome="Bárbara" idade={31} />
     </div>
   );
 }
